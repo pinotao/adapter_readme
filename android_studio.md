@@ -1,2 +1,3 @@
 # Android Studio
 
+###主要涉及环境配置、VCS使用、编码规范...

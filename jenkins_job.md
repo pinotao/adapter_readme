@@ -18,7 +18,7 @@
 
 ![2](http://cl.ly/2K3v1R0O3S1f/2) 
 
-##**查看维护的jenkins项目**、
+##**查看维护的jenkins项目**
 * 选择"My Views" ,TAB 选择入“auto_adapter”，可以过滤出，适配相关的jenkins项目。
 ![3](http://cl.ly/2K3v1R0O3S1f/3)
 

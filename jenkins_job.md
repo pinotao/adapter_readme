@@ -16,7 +16,7 @@
 
 * 进入“我的视图”（My Views）选项，将新建的jenkins项目加入“auto_adapter” 群组中。
 
-![2](http://cl.ly/2K3v1R0O3S1f/2) 
+![2](http://cl.ly/2P3b1O1y1J3r/2) 
 
 ##**查看维护的jenkins项目**
 * 选择"My Views" ,TAB 选择入“auto_adapter”，可以过滤出，适配相关的jenkins项目。
